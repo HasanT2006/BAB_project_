@@ -1,0 +1,26 @@
+# AQR Excel file — too large for GitHub, must be downloaded manually
+data/raw/aqr_bab_data.xlsx
+
+# Auto-generated data files — recreated by running the scripts
+data/processed/
+data/results/
+data/figures/
+data/screener/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment (if you create one)
+venv/
+env/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
